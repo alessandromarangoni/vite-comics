@@ -5,7 +5,7 @@ export default {
 </script>
 
 <template>
-    <div class="jumbotron bg-primary">
+    <div class="jumbotron bg-secondary">
         hero
     </div>
 </template>
